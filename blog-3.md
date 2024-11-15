@@ -58,7 +58,7 @@ TypeScript offers great benefits by adding static types to JavaScript, but it ca
 
 3. **Using Custom Type Guards**
 
-   You can create custom type guard functions when built-in checks don’t meet your needs.
+    Can create custom type guard functions when built-in checks don’t meet expected needs.
 
    ```typescript
    interface Car {
